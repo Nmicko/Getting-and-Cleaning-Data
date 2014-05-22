@@ -8,3 +8,5 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The run_analysis R script works as a tool for merging and cleaning all of the data from the .zip file. Before you use the R script, you should check (change) your working directory. 
+
+For additional information see the codebook or the script.
